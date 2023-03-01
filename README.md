@@ -1,10 +1,7 @@
-<div style="display: flex; justify-content: center; gap: 25px;">
+<div style="display: flex; justify-content:center; gap: 25px;">
 <p align="center">
   <a href="http://nestjs.com/" target="blank"><img src="https://nestjs.com/img/logo-small.svg" width="200" alt="Nest Logo" /></a>
 </p>
-<div align="center">
-  <img width="250" src="https://assets.stickpng.com/images/584856b4e0bb315b0f7675ac.png" alt="Email icon">
-</div>
 </div>
 
 # NestJS Email Sender 
