@@ -40,7 +40,7 @@ To send an email, send an HTTP POST request to the /api/mail endpoint with a JSO
 
 The application will send the email via SMTP and return a JSON response with a success message.
 
-To view the API documentation, open Swagger UI in your web browser at http://localhost:8080. The Swagger UI provides a user-friendly interface for exploring and testing the API.
+To view the API documentation, open Swagger UI in your web browser at http://localhost:8080/api. The Swagger UI provides a user-friendly interface for exploring and testing the API.
 
 ## License
 
